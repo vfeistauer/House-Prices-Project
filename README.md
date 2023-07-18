@@ -2,8 +2,6 @@
 
 
 
-**--> PROJECT UNDER DEVELOPMENT**
-
 The **_main objective_** of this project is to predict house prices in a dataset with 79 explanatory variables describing several aspect of residential homes in the city of *Ames, Iowa, USA*. The original dataset can be find at [Kaggle](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques).
 
 **_Specific objetives:_**
